@@ -25,3 +25,30 @@ Success Page
 
 ```
 git clone https://github.com/wendy61019/URL-shortener.git
+```
+
+2. Open the project file
+
+```
+cd URL-shortener
+```
+
+3. Install Node packages
+
+```
+npm install
+```
+
+4. Start to execute server
+
+```
+npm run start
+```
+
+or
+
+```
+npm run dev
+```
+
+5. If you want to exit, press ctrl+C
