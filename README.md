@@ -70,3 +70,5 @@ http://localhost:3000
 [MongoDB](https://www.mongodb.com/try/download/community)
 
 [Bootstrap](https://getbootstrap.com/)
+
+[sweetalert2](https://sweetalert2.github.io/recipe-gallery/)
