@@ -4,7 +4,7 @@ A tool to shorten URL and copy the shorten URL in one click.
 
 # Demo
 
-Home page
+Home Page
 
 ![shortener](https://user-images.githubusercontent.com/92006997/142183123-4f873229-3ff3-4c47-a8ff-3f7dbf03422b.png)
 
