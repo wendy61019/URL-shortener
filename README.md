@@ -51,7 +51,13 @@ or
 npm run dev
 ```
 
-5. If you want to exit, press ctrl+C
+5. Enter the following link to use Shortener URL
+
+```
+http://localhost:3000
+```
+
+6. If you want to exit, press ctrl+C
 
 # Environment SetUp
 
