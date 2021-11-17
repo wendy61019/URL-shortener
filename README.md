@@ -22,3 +22,9 @@ Success Page
 # Installation
 
 1. Open the Terminal and clone the project to local. 
+
+```
+
+git clone https://github.com/wendy61019/URL-shortener.git
+
+```
