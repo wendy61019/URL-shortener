@@ -74,4 +74,4 @@ http://localhost:3000
 [sweetalert2](https://sweetalert2.github.io/recipe-gallery/)
 
 # Contributor
-Wendy Wu(https://github.com/wendy61019)
+[Wendy Wu](https://github.com/wendy61019)
