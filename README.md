@@ -51,7 +51,7 @@ or
 npm run dev
 ```
 
-5. Enter the following link to use Shortener URL
+5. Enter the following link to use URL Shortener
 
 ```
 http://localhost:3000
