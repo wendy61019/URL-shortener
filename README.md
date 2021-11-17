@@ -14,6 +14,8 @@ Success Page
 
 # Feature
 
-[x] Users can input an URL and click to shorten it.
+- [x] Users can input an URL and click to shorten it.
+- [x] Users can copy the shorten URL by clicking the copy button.
+- [x] Users can back to the home page by clicking the back button.
+- [x] Users can use the shorten URL link to connect to the website.
 
-[x]
