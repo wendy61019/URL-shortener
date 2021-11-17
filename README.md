@@ -13,3 +13,7 @@ Success Page
 ![shortener-success](https://user-images.githubusercontent.com/92006997/142183175-8b9119e0-74cf-4852-9285-0a3a043fe54d.png)
 
 # Feature
+
+[x] Users can input an URL and click to shorten it.
+
+[x]
