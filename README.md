@@ -19,3 +19,6 @@ Success Page
 - [x] Users can back to the home page by clicking the back button.
 - [x] Users can use the shorten URL link to connect to the website.
 
+# Installation
+
+1. Open the Terminal and clone the project to local. 
