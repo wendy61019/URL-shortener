@@ -55,3 +55,12 @@ npm run dev
 
 # Environment SetUp
 
+[Visual Studio Code](https://visualstudio.microsoft.com/zh-hant/)
+
+[Express](https://www.npmjs.com/package/express)
+
+[Express-Handlebars](https://www.npmjs.com/package/express-handlebars)
+
+[MongoDB](https://www.mongodb.com/try/download/community)
+
+[Bootstrap]
