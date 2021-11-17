@@ -72,3 +72,6 @@ http://localhost:3000
 [Bootstrap](https://getbootstrap.com/)
 
 [sweetalert2](https://sweetalert2.github.io/recipe-gallery/)
+
+# Contributor
+Wendy Wu(https://github.com/wendy61019)
