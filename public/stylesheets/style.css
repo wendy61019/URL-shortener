@@ -54,8 +54,7 @@ img {
   color: #C4C4C4
 }
 
-.submit-form .submit-form-reminder,
-.error-message .error-message-reminder {
+.submit-form .submit-form-reminder {
   color:crimson;
   align-self: center;
   margin: 10px;
@@ -96,4 +95,10 @@ img {
 
 .error-message-content {
   margin-bottom: 0;
+}
+
+.error-message-reminder {
+  color:crimson;
+  align-self: center;
+  margin: 10px;
 }
