@@ -1,6 +1,6 @@
 # URL Shortener
 
-A tool to shorten URL and copy the shorten URL in one click.
+A tool to shorten URL and copy the short URL in one click.
 
 # Demo
 
