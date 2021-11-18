@@ -1,0 +1,29 @@
+{{#if shortURL}}
+<div class="result">
+    <h4 class="result-success-msg">Success! Please use this link:</h4>
+    <p id="generatedURL"class="result-url">{{origin}}/{{shortURL}}</p>
+</div>
+<div class="copy">
+    <button class="copy-button btn btn-primary mx-3 mb-3" onclick="copy()">Copy</button>
+    <form action="/" method="get">
+        <button class="back-button btn btn-warning text-white" type="submit">Back</button>
+    </form>
+<div>
+
+<script>
+    function copy() {
+        const URL = document.getElementById("generatedURL")
+        navigator.clipboard.writeText(URL.innerText)
+            .then(() => Swal.fire('Copied!', '', 'success'))
+            .catch(error => console.log(error))
+    }
+</script>
+{{else}}
+<form action="/" method="POST">
+    <div class="submit-form">
+        <input type="url" class="submit-form-input" name="url" placeholder="Input URL here" required />
+        <span class="submit-form-reminder">*URL should start with http://</span>
+        <button class="submit-form-button" type="submit">Shorten</button>
+    </div>
+</form>
+{{/if}}
