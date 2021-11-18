@@ -1,0 +1,98 @@
+.app {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-family: Arial, Helvetica, sans-serif;
+  width: 450px;
+  margin: 30px auto 0;
+  padding: 20px;
+}
+
+.nav {
+  text-decoration: none;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+}
+
+.nav .h2 {
+  flex: 1;
+}
+
+img {
+  width: 100px;
+  margin-top: 0;
+}
+
+.content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 400px;
+  margin-top: 30px;
+}
+
+.submit-form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+}
+
+.submit-form .submit-form-input {
+  color: black;
+  background-color: #EBEBEB;
+  border: 0;
+  border-radius: 2px;
+  width: 110%;
+  height: 30px;
+  padding: 3px 8px;
+}
+
+.submit-form .submit-form-input::placeholder {
+  color: #C4C4C4
+}
+
+.submit-form .submit-form-reminder {
+  color:crimson;
+  align-self: center;
+  margin: 10px;
+}
+
+.submit-form .submit-form-button {
+  color: #0496ff;
+  background-color: transparent;
+  border: 1px solid #0496ff;
+  border-radius: 4px;
+  width: 45%;
+  height: 30px;
+  margin-top: 10px;
+  font-weight: bold;
+}
+
+.result-success-msg {
+  align-self: center;
+  margin: 0 0 5px;
+}
+
+.result-url {
+  text-decoration: none;
+  color: #0496ff;
+  margin-bottom: 10px;
+  font-weight: bold;
+}
+
+.copy{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.error-msg .h4 {
+  margin: 0 auto;
+}
+
+.error-msg .h3 {
+  margin-bottom: 0;
+}
