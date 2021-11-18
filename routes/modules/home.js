@@ -36,10 +36,7 @@ router.get("/:shortURL", (req, res) => {
         .lean()
         .then(data => {
             if (!data) {
-                return res.render("error", {
-                    errorMsg: "Can't find the URL!",
-                    errorURL: req.headers.host + "/" + shortURL
-                })
+                return res.render("error")
             }
             res.redirect(data.originalURL)
         })
