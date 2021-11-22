@@ -6,7 +6,7 @@ const collection = upperLetters + lowerLetters + numbers
 function shortenURL() {
     let shortCode = ''
     for(let i = 0; i < 5; i++){
-        const randomIndex = Math.floor(Math.random() * collection.length)
+        let randomIndex = Math.floor(Math.random() * collection.length)
         shortCode += collection[randomIndex]
     }
     return shortCode
